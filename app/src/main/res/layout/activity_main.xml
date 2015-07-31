@@ -37,7 +37,8 @@
         android:id="@+id/linearLayout"
         android:layout_below="@+id/artistImage"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="5dp">
+        android:layout_marginTop="5dp"
+        android:background="@drawable/buttons_bg">
 
         <Button
             android:layout_width="48dp"
